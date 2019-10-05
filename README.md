@@ -53,4 +53,5 @@
 | 81   | Search in Rotated Sorted Array II                       | M          | {Array, Binary Search}                           | x    |
 | 84   | Largest Rectangle in Histogram                          | H          | {Array, Stack}                                   | r    |
 | 85   | Maximal Rectangle                                       | H          | {Array, Hash Table, Dynamic Programming, Stack}  | r    |
+| 88   | Merge Sorted Array                                      | E          | {Array, Two Pointers}                            | r    |
 
