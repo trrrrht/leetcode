@@ -57,4 +57,6 @@
 | 90   | Subsets II                                                 | M          | {Array, Backtracking}                            | r    |
 | 105  | Construct Binary Tree from Preorder and Inorder Traversal  | M          | {Array, Tree, Depth-first Search}                | r    |
 | 106  | Construct Binary Tree from Inorder and Postorder Traversal | M          | {Array, Tree, Depth-first Search}                | r    |
+| 118  | Pascal's Triangle                                          | E          | {Array}                                          | o    |
+| 119  | Pascal's Triangle II                                       | E          | {Array}                                          | r    |
 
