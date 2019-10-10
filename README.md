@@ -61,4 +61,6 @@
 | 119  | Pascal's Triangle II                                       | E          | {Array}                                          | r    |
 | 120  | Triangle                                                   | M          | {Array, Dynamic Programming}                     | r    |
 | 121  | Best Time to Buy and Sell Stock                            | E          | {Array, Dynamic Programming}                     | r    |
+| 122  | Best Time to Buy and Sell Stock II                         | E          | {Array, Greedy}                                  | r    |
+| 123  | Best Time to Buy and Sell Stock III                        | H          | {Array, Dynamic Programming}                     | r    |
 
