@@ -64,4 +64,5 @@
 | 122  | Best Time to Buy and Sell Stock II                         | E          | {Array, Greedy}                                     | r    |
 | 123  | Best Time to Buy and Sell Stock III                        | H          | {Array, Dynamic Programming}                        | r    |
 | 126  | Word Ladder II                                             | H          | {Array, String, Backtracking, Breadth-first Search} | r    |
+|      |                                                            |            |                                                     |      |
 
